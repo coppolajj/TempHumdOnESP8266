@@ -7,8 +7,8 @@
 #define wifi_password   "yourPassword"
 #define AIO_SERVER      "yourMQTTip"
 #define AIO_SERVERPORT  1883 //MQTT Broker port
-#define AIO_USERNAME    "yourMQTTBroker"
-#define AIO_KEY         "MQTTBrokerPassword"
+#define AIO_USERNAME    "yourMQTTBrokerUserName"
+#define AIO_KEY         "yourMQTTBrokerPassword"
 #define humd_topic      "sensor/TH1/humidity" //  "TH#" used to identify sensor
 #define temp_topic      "sensor/TH1/temperature"
 #define stat_topic      "sensor/TH1/state"
